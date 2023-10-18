@@ -15,9 +15,10 @@ This is a basic backend project in flask with CRUD methods in it and some author
 
 ## Tech
 This project uses a number of open source projects to work properly:
-- [Flask] - Micro web framework written in the Python programming language.
-- [Firebase Cloud Firestore] - A NoSQL database service that allows you to easily store and access application data.
-- [Werkzeug] - An integral part of the Flask framework.
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/) - Micro web framework written in the Python programming language.
+- [Firebase Cloud Firestore](https://firebase.google.com/) - A NoSQL database service that allows you to easily store and access application data.
+- [Werkzeug](https://werkzeug.palletsprojects.com/en/3.0.x/) - An integral part of the Flask framework.
+- [VSCode](https://code.visualstudio.com/download) - A lightweight, open source code editor developed by Microsoft.
 
 ## Installation
 ### Flask
